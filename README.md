@@ -1,6 +1,8 @@
-# 👋 Hi there, I'm Kapil Pandey!
+# 👋 Hi there, I'm Kapil Pandey
 
-🚀 I'm a passionate **Mobile App & Game Developer** with hands-on experience building cross-platform and native mobile applications using **Android (Java/Kotlin)**, **iOS (Swift)**, **Flutter**, and **Firebase and Node.js **. I enjoy solving real-world problems through elegant UI/UX and scalable backend integrations.
+🚀 I’m a passionate **Mobile App & Game Developer** with a strong focus on building intuitive, scalable, and user-centered mobile experiences. I enjoy creating both native and cross-platform applications, with an eye for modern design and real-world impact.
+
+I’m continuously learning and evolving — especially around clean architecture, smart UI/UX, and collaborative development that brings ideas to life.
 
 ---
 
