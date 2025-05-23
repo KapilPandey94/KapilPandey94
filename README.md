@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Kapil Pandey!
 
-🚀 I'm a passionate **Mobile App & Game Developer** with hands-on experience building cross-platform and native mobile applications using **Android (Java/Kotlin)**, **iOS (Swift)**, **Flutter**, and **Firebase**. I enjoy solving real-world problems through elegant UI/UX and scalable backend integrations.
+🚀 I'm a passionate **Mobile App & Game Developer** with hands-on experience building cross-platform and native mobile applications using **Android (Java/Kotlin)**, **iOS (Swift)**, **Flutter**, and **Firebase and Node.js **. I enjoy solving real-world problems through elegant UI/UX and scalable backend integrations.
 
 ---
 
@@ -8,9 +8,12 @@
 
 **👨‍💻 Languages:** Java, Kotlin, Swift, Dart, JavaScript, PHP (learning), C#  
 **📱 Mobile:** Android Studio, Jetpack Compose, Flutter, Xcode  
-**🛠 Backend:** Firebase (Auth, Firestore, Storage), Express.js, MongoDB, SQL, Laravel (learning)  
-**💻 Frontend:** XML, HTML, CSS  
-**🎨 Tools:** Git, GitHub, Figma, Postman, Unity, VS Code  
+**🛠 Backend Frameworks:** Firebase (Auth, Firestore, Storage), Express.js, MongoDB, SQL, Laravel (learning)  
+**💻 Frontend:** XML (Android UI), HTML, CSS (Web & Hybrid Design)  
+**🗃️ Databases:** SQL, NoSQL, Realtime DB  
+**🛰️ APIs and Cloud Functions:** Firebase Cloud Functions, Express.js (Node) APIs, Laravel API Routes  
+**🧰 Tools:** Git, GitHub, Figma, Postman, Unity, VS Code  
+**📋 Project Management Tools:** Jira  
 
 ---
 
