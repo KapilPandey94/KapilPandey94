@@ -11,7 +11,7 @@ I’m continuously learning and evolving — especially around clean architectur
 **👨‍💻 Languages:** Java, Kotlin, Swift, Dart, JavaScript, PHP (learning), C#  
 **📱 Mobile:** Android Studio, Jetpack Compose, Flutter, Xcode  
 **🛠 Backend Frameworks:** Firebase (Auth, Firestore, Storage), Express.js, MongoDB, SQL, Laravel (learning)  
-**💻 Frontend:** XML (Android UI), HTML, CSS (Web & Hybrid Design)  
+**💻 Frontend:** XML (Android UI) and Flutter (Cross-platform), HTML, CSS (Web & Hybrid Design)  
 **🗃️ Databases:** SQL, NoSQL, Realtime DB  
 **🛰️ APIs and Cloud Functions:** Firebase Cloud Functions, Express.js (Node) APIs, Laravel API Routes  
 **🧰 Tools:** Git, GitHub, Figma, Postman, Unity, VS Code  
